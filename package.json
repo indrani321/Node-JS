@@ -1,0 +1,16 @@
+{
+  "name": "new-form",
+  "version": "1.0.0",
+  "description": "Complete node JS",
+  "main": "newform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node newform.js",
+    "start-server": "node newform.js"
+  },
+  "author": "Indrani Bhattacharjee",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
